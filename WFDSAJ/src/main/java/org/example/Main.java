@@ -1,6 +1,10 @@
 package org.example;
 
 public class Main {
+    //Data Structures easy to Advanced Course - Full Tutorial from a Google Engineer
+    //https://www.youtube.com/watch?v=RBSGKlAvoiM
+    //https://github.com/williamfiset/DEPRECATED-data-structures
+
     //data structure: a way of organizing data so that it can be used effectively
     //  - essential ingredients in creating fast and powerful algorithms
     //  - help to manage and organize data
